@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Gabriela Brito",
+      "email": "gabibrito@email.com",
+      "id": 3
+    },
+    {
+      "name": "Ana Julia de Souza",
+      "email": "anaju@mail.com",
+      "id": 4
+    },
+    {
+      "name": "Ricardo Castro",
+      "email": "ricardocastro@mail.com",
+      "id": 5
+    }
+  ]
+}
